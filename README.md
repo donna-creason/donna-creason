@@ -1,6 +1,11 @@
 ## Hi, I'm Donna 👋
 Welcome to my Github profile where I maintain all things technical writing (TW). With a 25+ year career, it's getting more challenging to keep track of all the work and projects I've done. This is my TW capsule.
 
+## Tools and Tech
+
+## Representative Clients
+
+
 <!--
 **donna-creason/donna-creason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
