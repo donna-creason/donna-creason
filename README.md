@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
   ## ⚡ Fun fact
   I'm also building an online community ESTEAMD (www.esteamd.com) to help women in STEAM industries design careers with clarity and intention.
-<a href="https://www.linkedin.com/pulse/dance-floor-someone-has-go-first-donna-m-creason-iz8dc/?trackingId=Y2l%2BJZyZRGOOgM8OPVLqOw%3D%3D" target="_blank"><img width="400" height="225" alt="Someone has to go first" src="https://github.com/user-attachments/assets/9e45fc73-0242-4902-8c0a-9878daf1597f"></a>
+  
+<a href="https://www.linkedin.com/pulse/dance-floor-someone-has-go-first-donna-m-creason-iz8dc/?trackingId=Y2l%2BJZyZRGOOgM8OPVLqOw%3D%3D" target="_blank">
+    <img width="400" height="225" alt="Someone has to go first" src="https://github.com/user-attachments/assets/9e45fc73-0242-4902-8c0a-9878daf1597f">
+</a>
 
    ## 📫 How to reach me
    Thanks for visiting. I'd love to connect! If you have an immediate need or request, the best and quickest way to reach me is via email (donna@contentifulstrategies.com)
