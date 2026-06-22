@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Donna 👋
 Welcome to my Github profile where I maintain all things technical writing (TW). With a 25+ year career, it's getting more challenging to keep track of all the work and projects I've done. I hope you enjoy exploring my TW respository. If you're looking for something specific, please contact me and I'll dig into my library to find something relevant and relatable to your project needs.
 
-## Industries Served 🏭
+## 🏭 Industries Served
 
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tbody>
@@ -46,7 +46,7 @@ Welcome to my Github profile where I maintain all things technical writing (TW).
   </tbody>
 </table>
 
-## Tech Proficiency 🧰
+## 🧰 Tech Proficiency
 - Productivity: Google Workspace, Office 365, Atlassian
 - Design: Adobe Creative Suite
 - Content Management: WordPress, Drupal, SharePoint
@@ -55,7 +55,7 @@ Welcome to my Github profile where I maintain all things technical writing (TW).
 - Video Conferencing: Zoom, Teams, WebEx, Meet, GoToMeeting
 - Other: Airtable, Granicus/GovDelivery, DocuSign, Google Analytics, Siteimprove, Qualtrics, SurveyMonkey
 
-## Representative Clients 🤝
+## 🤝 Representative Clients
 <img width="150" height="60" alt="U.S. General Services Administration (GSA)" src="https://github.com/user-attachments/assets/cf22bf1e-84c1-472a-b3ee-0f8d34e93513" /> &nbsp; 
 <img width="86" height="60" alt="Salesforce" src="https://github.com/user-attachments/assets/eed19b8b-9f9f-42f1-9f2a-6b6cdde02023" /> &nbsp;
 <img width="61" height="60" alt="HP" src="https://github.com/user-attachments/assets/a6bd0840-172b-48c4-b48e-e563debaf080" /> &nbsp;
