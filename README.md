@@ -67,4 +67,6 @@ Welcome to my Github profile where I maintain all things technical writing (TW).
 </a>
 
    ## 📫 How to reach me
-   Thanks for visiting. I'd love to connect! If you have an immediate need or request, the best and quickest way to reach me is via email (donna@contentifulstrategies.com)
+   Thanks for visiting. <a href="https://www.linkedin.com/company/contentiful-strategies-llc" target="_blank">Let's stay connected!</a> If you have an immediate need or request, the best and quickest way to reach me is via email (donna@contentifulstrategies.com).
+
+   One last note: Check back often because I'll be adding new and exciting projects monthly!
