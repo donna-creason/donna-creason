@@ -69,8 +69,7 @@ Welcome to my Github profile where I maintain all things technical writing (TW).
   ## ⚡ Fun fact  
   I'm also building an online community (www.esteamd.com) to help women who are working in STEAM (or STEAM-adjacent) industries design careers with clarity and intention.
   
-<a href="https://www.linkedin.com/pulse/dance-floor-someone-has-go-first-donna-m-creason-iz8dc/?trackingId=Y2l%2BJZyZRGOOgM8OPVLqOw%3D%3D" target="_blank">
-    <img width="400" height="225" alt="Someone has to go first" src="https://github.com/user-attachments/assets/9e45fc73-0242-4902-8c0a-9878daf1597f">
+<a href="https://www.linkedin.com/pulse/dance-floor-someone-has-go-first-donna-m-creason-iz8dc/?trackingId=Y2l%2BJZyZRGOOgM8OPVLqOw%3D%3D" target="_blank"> <img width="400" height="225" alt="Someone has to go first" src="https://github.com/user-attachments/assets/9e45fc73-0242-4902-8c0a-9878daf1597f">
 </a>
 
    ## 📫 How to reach me
