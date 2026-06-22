@@ -57,7 +57,11 @@ Welcome to my Github profile where I maintain all things technical writing (TW).
 
 ## Representative Clients 🤝
 <img width="150" height="60" alt="GSA logo" src="https://github.com/user-attachments/assets/cf22bf1e-84c1-472a-b3ee-0f8d34e93513" /> &nbsp; <img width="86" height="60" alt="image" src="https://github.com/user-attachments/assets/eed19b8b-9f9f-42f1-9f2a-6b6cdde02023" /> &nbsp; <img width="61" height="60" alt="image" src="https://github.com/user-attachments/assets/a6bd0840-172b-48c4-b48e-e563debaf080" /> &nbsp;
- <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/3976e34b-0ed2-4a83-b327-8ddb80052190" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/41c8b856-aec3-4e4d-bb7f-f1f5cdec6c39" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5ba2bf39-408d-4a5b-aae8-bc1e58e5b040" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/851b21eb-b5be-43a5-8383-a87ea0ba707f" />
+ <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/3976e34b-0ed2-4a83-b327-8ddb80052190" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/41c8b856-aec3-4e4d-bb7f-f1f5cdec6c39" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5ba2bf39-408d-4a5b-aae8-bc1e58e5b040" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/851b21eb-b5be-43a5-8383-a87ea0ba707f" /> &nbsp; <img width="151" height="60" alt="image" src="https://github.com/user-attachments/assets/3500200f-16c8-40ab-9bdf-79c756b90527" /> &nbsp; 
+<img width="114" height="60" alt="image" src="https://github.com/user-attachments/assets/61a9d569-e177-4b9a-910d-5b9b7a505cd2" /> &nbsp; <img width="211" height="60" alt="image" src="https://github.com/user-attachments/assets/293be032-2a29-4c31-9ce5-bec2fccd7826" /> &nbsp; <img width="189" height="60" alt="image" src="https://github.com/user-attachments/assets/84fe47b4-b2cb-4407-8f5c-c003c11d21f9" />
+
+
+
 
   ## ⚡ Fun fact  
   I'm also building an online community (www.esteamd.com) to help women working in STEAM industries design careers with clarity and intention.
