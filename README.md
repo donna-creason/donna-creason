@@ -1,17 +1,3 @@
-## Hi, I'm Donna 👋
-Welcome to my Github profile where I maintain all things technical writing (TW). With a 25+ year career, it's getting more challenging to keep track of all the work and projects I've done. This is my TW capsule.
-
-## Tools and Tech 🧰
-- Productivity and Collaboration: Google Workspace, Office 365, Atlassian
-- Design: Adobe Creative Suite, WordPress
-- Version Control: Perforce Helix Core, Oxygen XML, GitHub
-- Content Management and Collaboration: Basecamp, Dropbox, Wrike
-- Video Conferencing: Zoom, Teams, WebEx, Meet, GoToMeeting
-- Other: Airtable, Granicus/GovDelivery, DocuSign, Google Analytics, Siteimprove, Qualtrics
-
-## Representative Clients
-<img width="393" height="158" alt="image" src="https://github.com/user-attachments/assets/cf22bf1e-84c1-472a-b3ee-0f8d34e93513" />
-
 <!--
 **donna-creason/donna-creason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +11,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Donna 👋
+Welcome to my Github profile where I maintain all things technical writing (TW). With a 25+ year career, it's getting more challenging to keep track of all the work and projects I've done. I hope you enjoy exploring my TW respository. If you're looking for something specific, please contact me and I'll dig into my library to find something relevant and relatable to your project needs.
+
+## Industries Served 🏭
+
+<table style="width:100%; border-collapse: collapse; text-align: left;">
+  <tbody>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">Academia (HigherEd)</td>
+      <td style="padding: 8px;">Buildings</td>
+      <td style="padding: 8px;">Contract lifecycle management</td>
+      <td style="padding: 8px;">Energy and utilities</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">Engineering</td>
+      <td style="padding: 8px;">Government</td>
+      <td style="padding: 8px;">Healthcare</td>
+      <td style="padding: 8px;">InfoTech/InfoSec</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">International development</td>
+      <td style="padding: 8px;">Life sciences</td>
+      <td style="padding: 8px;">Marketing</td>
+      <td style="padding: 8px;">Mobility</td>
+    </tr>
+  </tbody>
+      <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 8px;">Public health</td>
+      <td style="padding: 8px;">Publishing</td>
+      <td style="padding: 8px;">Pharmaceutical</td>
+      <td style="padding: 8px;">Veterinary medicine</td>
+    </tr>
+</table>
+
+## Tech Proficiency 🧰
+- Productivity: Google Workspace, Office 365, Atlassian
+- Design: Adobe Creative Suite
+- Content Management: WordPress, Drupal, SharePoint
+- Version Control: Perforce Helix Core, Oxygen XML, GitHub
+- Collaboration: Basecamp, Dropbox, Wrike, Quip
+- Video Conferencing: Zoom, Teams, WebEx, Meet, GoToMeeting
+- Other: Airtable, Granicus/GovDelivery, DocuSign, Google Analytics, Siteimprove, Qualtrics, SurveyMonkey
+
+## Representative Clients 🤝
+<img width="150" height="60" alt="GSA logo" src="https://github.com/user-attachments/assets/cf22bf1e-84c1-472a-b3ee-0f8d34e93513" /> &nbsp; <img width="86" height="60" alt="image" src="https://github.com/user-attachments/assets/eed19b8b-9f9f-42f1-9f2a-6b6cdde02023" /> &nbsp; <img width="61" height="60" alt="image" src="https://github.com/user-attachments/assets/a6bd0840-172b-48c4-b48e-e563debaf080" /> &nbsp;
+ <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/3976e34b-0ed2-4a83-b327-8ddb80052190" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/41c8b856-aec3-4e4d-bb7f-f1f5cdec6c39" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5ba2bf39-408d-4a5b-aae8-bc1e58e5b040" /> &nbsp; <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/851b21eb-b5be-43a5-8383-a87ea0ba707f" />
+
   ## ⚡ Fun fact  
   I'm also building an online community (www.esteamd.com) to help women working in STEAM industries design careers with clarity and intention.
   
