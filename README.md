@@ -1,10 +1,16 @@
 ## Hi, I'm Donna 👋
 Welcome to my Github profile where I maintain all things technical writing (TW). With a 25+ year career, it's getting more challenging to keep track of all the work and projects I've done. This is my TW capsule.
 
-## Tools and Tech
+## Tools and Tech 🧰
+- Productivity and Collaboration: Google Workspace, Office 365, Atlassian
+- Design: Adobe Creative Suite, WordPress
+- Version Control: Perforce Helix Core, Oxygen XML, GitHub
+- Content Management and Collaboration: Basecamp, Dropbox, Wrike
+- Video Conferencing: Zoom, Teams, WebEx, Meet, GoToMeeting
+- Other: Airtable, Granicus/GovDelivery, DocuSign, Google Analytics, Siteimprove, Qualtrics
 
 ## Representative Clients
-
+<img width="393" height="158" alt="image" src="https://github.com/user-attachments/assets/cf22bf1e-84c1-472a-b3ee-0f8d34e93513" />
 
 <!--
 **donna-creason/donna-creason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ## ⚡ Fun fact
+  ## ⚡ Fun fact  
   I'm also building an online community (www.esteamd.com) to help women working in STEAM industries design careers with clarity and intention.
   
 <a href="https://www.linkedin.com/pulse/dance-floor-someone-has-go-first-donna-m-creason-iz8dc/?trackingId=Y2l%2BJZyZRGOOgM8OPVLqOw%3D%3D" target="_blank">
