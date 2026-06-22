@@ -20,30 +20,30 @@ Welcome to my Github profile where I maintain all things technical writing (TW).
 <table style="width:100%; border-collapse: collapse; text-align: left;">
   <tbody>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">Academia (HigherEd)</td>
-      <td style="padding: 8px;">Buildings</td>
-      <td style="padding: 8px;">Contract lifecycle management</td>
-      <td style="padding: 8px;">Energy and utilities</td>
+      <td style="padding: 6px;">Academia (HigherEd)</td>
+      <td style="padding: 6px;">Buildings</td>
+      <td style="padding: 6px;">Contract lifecycle management</td>
+      <td style="padding: 6px;">Energy and utilities</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">Engineering</td>
-      <td style="padding: 8px;">Government</td>
-      <td style="padding: 8px;">Healthcare</td>
-      <td style="padding: 8px;">InfoTech/InfoSec</td>
+      <td style="padding: 6px;">Engineering</td>
+      <td style="padding: 6px;">Government</td>
+      <td style="padding: 6px;">Healthcare</td>
+      <td style="padding: 6px;">InfoTech/InfoSec</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">International development</td>
-      <td style="padding: 8px;">Life sciences</td>
-      <td style="padding: 8px;">Marketing</td>
-      <td style="padding: 8px;">Mobility</td>
+      <td style="padding: 6px;">International development</td>
+      <td style="padding: 6px;">Life sciences</td>
+      <td style="padding: 6px;">Marketing</td>
+      <td style="padding: 6px;">Mobility</td>
+    </tr>
+      <tr style="border-bottom: 1px solid #ddd;">
+      <td style="padding: 6px;">Public health</td>
+      <td style="padding: 6px;">Publishing</td>
+      <td style="padding: 6px;">Pharmaceutical</td>
+      <td style="padding: 6px;">Veterinary medicine</td>
     </tr>
   </tbody>
-      <tr style="border-bottom: 1px solid #ddd;">
-      <td style="padding: 8px;">Public health</td>
-      <td style="padding: 8px;">Publishing</td>
-      <td style="padding: 8px;">Pharmaceutical</td>
-      <td style="padding: 8px;">Veterinary medicine</td>
-    </tr>
 </table>
 
 ## Tech Proficiency 🧰
