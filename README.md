@@ -66,13 +66,13 @@ Welcome to my GitHub profile where I maintain all things technical writing (TW).
 <img width="151" height="60" alt="Los Alamos National Laboratory" src="https://github.com/user-attachments/assets/3500200f-16c8-40ab-9bdf-79c756b90527" /> &nbsp; 
 <img width="114" height="60" alt="Agiloft" src="https://github.com/user-attachments/assets/61a9d569-e177-4b9a-910d-5b9b7a505cd2" /> &nbsp; 
 
-  ## ⚡ Fun fact  
+## ⚡ Fun fact  
 I'm also building an online community (www.esteamd.com) to help women who are working in STEAM (or STEAM-adjacent) industries design careers with clarity and intention.
 </br></br>
 <a href="https://www.linkedin.com/pulse/dance-floor-someone-has-go-first-donna-m-creason-iz8dc/?trackingId=Y2l%2BJZyZRGOOgM8OPVLqOw%3D%3D" target="_blank"> <img width="400" height="225" alt="Someone has to go first" src="https://github.com/user-attachments/assets/9e45fc73-0242-4902-8c0a-9878daf1597f">
 </a>
 
-   ## 📫 How to reach me
-   Thanks for visiting. <a href="https://www.linkedin.com/company/contentiful-strategies-llc" target="_blank">Let's stay connected</a>! If you have an immediate need or request, the best and quickest way to reach me is via email (donna@contentifulstrategies.com).
+## 📫 How to reach me
+Thanks for visiting. <a href="https://www.linkedin.com/company/contentiful-strategies-llc" target="_blank">Let's stay connected</a>! If you have an immediate need or request, the best and quickest way to reach me is via email (donna@contentifulstrategies.com).
 
    One last note: Check back often because I'll be adding new and exciting projects monthly!
