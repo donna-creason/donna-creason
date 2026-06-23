@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Donna 👋
-Welcome to my GitHub profile where I maintain all things technical writing (TW). With a 25+ year career, it's getting more challenging to keep track of all the work and projects I've done. I hope you enjoy exploring my TW respository. If you're looking for something specific, <a href="mailto:donna@contentifulstrategies.com">please contact me</a> and I'll dig into my library to find something relevant and relatable to your project needs.
+Welcome to my GitHub profile where I maintain all things technical writing (TW). With a 25+ year career, it's getting more challenging to keep track of all the work and projects I've done. I hope you enjoy exploring my TW respository. If you're looking for something specific, <a href="mailto:donna@contentifulstrategies.com">please contact me</a> and I'll dig into my library to find something more relevant and relatable to your project needs.
 
 ## 🏭 Industries served
 
